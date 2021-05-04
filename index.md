@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Late blight forecasts for the Columbia Basin of Washington
+The goal of this page is to help potato growers in the Columbia Basin of Washington make informed decisions about late blight management. Here we present forecasts and recommendations. The forecasts are derived from models developed by [Johnson *et al*. 1998](https://apsjournals.apsnet.org/doi/pdfplus/10.1094/PDIS.1998.82.6.642), [Johnson *et al*. 2009](https://apsjournals.apsnet.org/doi/pdfplus/10.1094/PDIS-93-3-0272) & [Johnson and Cummings 2016](https://link.springer.com/article/10.1007/s12230-016-9500-1). Each week, we will post probabilities of annual late blight outbreaks along with recommendations for Othello, Prosser and Tri-Cities.
 
-You can use the [editor on GitHub](https://github.com/d-linnard/LateBlight/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###  Forecasts and Recommendations (May 7 to May 14, 2021)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Location | P(outbreak) | Recommendations |
+| :---: | :---: |:---: |
+| Othello | 0.43 | Late blight is not likely, fungicide application is not recommended. Dispose of all cull or refuse tubers and manage volunteer potato plants, especially in fields were late blight occurred the last two years. Monitor fields for late blight on regular bases. |
+| Prosser | 0.35 | Late blight is not likely, fungicide application is not recommended. Dispose of all cull or refuse tubers and manage volunteer potato plants, especially in fields were late blight occurred the last two years. Monitor fields for late blight on regular bases. |
+| Tri-Cities | 0.74 | Late blight is not likely, fungicide application is not recommended. Dispose of all cull or refuse tubers and manage volunteer potato plants, especially in fields were late blight occurred the last two years. Monitor fields for late blight on regular bases. |
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/d-linnard/LateBlight/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Queries or concerns?
+David Linnard Wheeler **|** david.wheeler@wsu.edu **|** 215.880.3024  
+Sudha GC Upadhaya **|** sudha.gcupadhaya@wsu.edu **|** 701.303.0630

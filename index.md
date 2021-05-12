@@ -13,6 +13,6 @@ The goal of this page is to help potato growers in the Columbia Basin of Washing
 David Linnard Wheeler **|** david.wheeler@wsu.edu **|** 215.880.3024  
 Sudha GC Upadhaya **|** sudha.gcupadhaya@wsu.edu **|** 701.303.0630
 
-##### Access previous recommendations:
+### Access previous recommendations:
 * [May 7th 2021](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/May_7_2021.md)
 

@@ -6,7 +6,7 @@ The goal of this page is to help potato growers in the Columbia Basin of Washing
 | Location | P(outbreak) | Recommendations |
 | :---: | :---: |:---: |
 | Othello | 0.64 | Late blight is not likely, fungicide application is not recommended. Dispose of all cull or refuse tubers and manage volunteer potato plants, especially in fields were late blight occurred the last two years. Monitor fields for late blight on regular bases. |
-| Prosser | 0.06 | Late blight is not likely, fungicide application is not recommended. Dispose of all cull or refuse tubers and manage volunteer potato plants, especially in fields were late blight occurred the last two years. Monitor fields for late blight on regular bases. |
+| Prosser | 0.07 | Late blight is not likely, fungicide application is not recommended. Dispose of all cull or refuse tubers and manage volunteer potato plants, especially in fields were late blight occurred the last two years. Monitor fields for late blight on regular bases. |
 | Tri-Cities | 0.64 | Late blight is not likely, fungicide application is not recommended. Dispose of all cull or refuse tubers and manage volunteer potato plants, especially in fields were late blight occurred the last two years. Monitor fields for late blight on regular bases. |
 
 ### Queries or concerns?

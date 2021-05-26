@@ -16,4 +16,5 @@ Sudha GC Upadhaya **|** sudha.gcupadhaya@wsu.edu **|** 701.303.0630
 ##### Access previous forecasts and recommendations:
 * [May 7th 2021](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/May_7_2021.md)
 * [May 14th 2021](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/May_14_2021.md)
+* [May 21st 2021](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/May_21_2021.md)
 

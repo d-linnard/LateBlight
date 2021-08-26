@@ -14,7 +14,6 @@ The goal of this page is to help potato growers in the Columbia Basin of Washing
 
 * Eliminate culls, tuber refuse, and volunteer potato plants, especially in fields with or near late blight last year.
 * Monitor fields for late blight. This is very important for (i) effective management and (ii) accurate forecasting. Growers, field representatives, and extension agents serve as the eyes on the ground. We need this information to provide meaningful forecasts.
-* Although late blight has not yet been detected, below are our typical recommendations for this time of year when the disease is present. Apply fungicides on a 14 day schedule and before any rainy periods.Watch the 10-day weather forecasts for rain and apply a fungicide 1 to 7 days before any major rainfall.
 
 ### Queries or concerns?
 David Linnard Wheeler **|** david.wheeler@wsu.edu **|** 215.880.3024  

@@ -25,4 +25,4 @@ Sudha GC Upadhaya **|** sudha.gcupadhaya@wsu.edu **|** 701.303.0630
 - Dr. Tim Paulitz
 
 #### Access previous forecasts and recommendations:
-[May 6th 2021](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_6_22.md)| [May 13th 2021](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_13_22.md)
+[May 6th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_6_22.md)| [May 13th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_13_22.md)

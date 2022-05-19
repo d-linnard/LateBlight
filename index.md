@@ -16,13 +16,13 @@ The goal of this page is to help potato growers in the Columbia Basin of Washing
 * Monitor fields for late blight. This is very important for (i) effective management and (ii) accurate forecasting. Growers, field representatives, and extension agents serve as the eyes on the ground. We need this information to provide meaningful forecasts.
 
 ### Queries or concerns?
-David Linnard Wheeler **|** david.wheeler@wsu.edu **|** 215.880.3024  
+Timothy Paulitz **|** paulitz@wsu.edu **|** 509.335.7077  
 Sudha GC Upadhaya **|** sudha.gcupadhaya@wsu.edu **|** 701.303.0630
 
 ## Collaborators
 - [Dr. Carrie Wohleb](http://potatoes.wsu.edu/personnel/wohleb/)
 - [Dr. Tim Waters](http://potatoes.wsu.edu/personnel/waters/)
-- Dr. Tim Paulitz
+- [Dr. David Linnard Wheeler](https://www.linkedin.com/in/david-linnard/)
 
 #### Access previous forecasts and recommendations:
 [May 6th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_6_22.md) | [May 13th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_13_22.md)

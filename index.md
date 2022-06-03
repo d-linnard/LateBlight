@@ -1,14 +1,14 @@
 ## Late blight forecasts for the Columbia Basin of Washington
 The goal of this page is to help potato growers in the Columbia Basin of Washington make informed decisions about late blight management. Here we present forecasts and recommendations. The forecasts are derived from models developed by [Johnson *et al*. 1998](https://apsjournals.apsnet.org/doi/pdfplus/10.1094/PDIS.1998.82.6.642), [Johnson *et al*. 2009](https://apsjournals.apsnet.org/doi/pdfplus/10.1094/PDIS-93-3-0272) & [Johnson and Cummings 2016](https://link.springer.com/article/10.1007/s12230-016-9500-1). Each week, we will post probabilities of annual late blight outbreaks along with recommendations for Othello, Prosser and Tri-Cities.
 
-###  Forecasts and Recommendations for May 27th 2022
+###  Forecasts and Recommendations for June 3rd 2022
 #### Forecasts:
 
 | Location | P(outbreak) |
 | :---: | :---: |
-| Othello | 0.88 |
-| Prosser | 0.96 |
-| Tri-Cities | 0.57 |
+| Othello | 0.91 |
+| Prosser | 0.99 |
+| Tri-Cities | 0.72 |
 
 #### Recommendations:
 
@@ -25,4 +25,4 @@ Sudha GC Upadhaya **|** sudha.gcupadhaya@wsu.edu **|** 701.303.0630
 - [Dr. David Linnard Wheeler](https://www.linkedin.com/in/david-linnard/)
 
 #### Access previous forecasts and recommendations:
-[May 6th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_6_22.md) | [May 13th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_13_22.md) | [May 20th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_20_22.md)
+[May 6th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_6_22.md) | [May 13th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_13_22.md) | [May 20th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_20_22.md) | [May 27th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_27_22.md)

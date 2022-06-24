@@ -20,9 +20,10 @@ Timothy Paulitz **|** paulitz@wsu.edu **|** 509.335.7077
 Sudha GC Upadhaya **|** sudha.gcupadhaya@wsu.edu **|** 701.303.0630
 
 ## Collaborators
+- [Dr. David Linnard Wheeler](https://www.linkedin.com/in/david-linnard/)
 - [Dr. Carrie Wohleb](http://potatoes.wsu.edu/personnel/wohleb/)
 - [Dr. Tim Waters](http://potatoes.wsu.edu/personnel/waters/)
-- [Dr. David Linnard Wheeler](https://www.linkedin.com/in/david-linnard/)
+
 
 #### Access previous forecasts and recommendations:
 [May 6th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_6_22.md) | [May 13th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_13_22.md) | [May 20th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_20_22.md) | [May 27th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/5_27_22.md) | [June 3rd 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/6_3_22.md) | [June 10th 2022](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/6_10_22.md) | [June 17th 2022(https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2022/6_17_22.md)

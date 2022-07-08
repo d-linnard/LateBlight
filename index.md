@@ -8,7 +8,7 @@ The goal of this page is to help potato growers in the Columbia Basin of Washing
 | :---: | :---: |
 | Othello | 0.90 |
 | Prosser | 0.97 |
-| Tri-Cities | 0.28 |
+| Tri-Cities | 0.72 |
 
 #### Recommendations:
 

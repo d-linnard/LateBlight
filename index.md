@@ -6,9 +6,9 @@ The goal of this page is to help potato growers in the Columbia Basin of Washing
 
 | Location | P(outbreak) |
 | :---: | :---: |
-| Othello | 0.90 |
-| Prosser | 0.98 |
-| Tri-Cities | 0.19 |
+| Othello | 0.89 |
+| Prosser | 0.97 |
+| Tri-Cities | 0.18 |
 
 #### Recommendations:
 

@@ -26,5 +26,5 @@ Sudha GC Upadhaya **|** sudha.gcupadhaya@wsu.edu **|** 701.303.0630
 
 
 #### Access previous forecasts and recommendations:
- [June 17](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2023/6_17_23.md) | [June 23](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2023/6_23_23.md)
+ [June 16](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2023/6_17_23.md) | [June 23](https://github.com/d-linnard/LateBlight/blob/main/Forecasts%26Recommendations/2023/6_23_23.md)
 
